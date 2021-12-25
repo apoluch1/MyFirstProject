@@ -1,4 +1,9 @@
 Sample test created
 Git Practice
 Welcome to the Devops project
+<<<<<<< HEAD
+Git HuB practice start - yesterday
+=======
 Git HuB practice start
+added line
+>>>>>>> 6a558fc3c780c341ce039f953d0cc5d8ca88f4b5
